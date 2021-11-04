@@ -43,5 +43,25 @@ Fullstack Capabilities - Easily add backend (server-side) code to your Next & Re
 
 # About the Course
     - Basics & Foundation
+      - File-Based Routing
+      - Page-PreRendering and Data Fetching
+      - Combing "Standard React" & Nextjs
+      - API routes & Fullstack Capabilities
     - Advancded Concepts
+      - Optimization Opportunities
+      - Looking Behiind the Scenes and Theory
+      - Deployment and Configuration
+      - Authentication
     - Summaries & Refreshers
+      - ReactJS Refresher
+
+
+# React Refresher
+    - What is React and Why would we use it? (ReactJS)[reactjs.org]
+      - A JS library for building user interfaces
+      - A client-side JS library
+      - All about building modern interfaces for our sites
+  
+
+# Creating a new project
+--
